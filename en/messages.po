@@ -155,8 +155,12 @@ msgid "Connect Wallet"
 msgstr "Connect Wallet"
 
 #: src/views/Stake/Stake.jsx:235
-msgid "Connect your wallet to stake OHM"
-msgstr "Connect your wallet to stake OHM"
+#~ msgid "Connect your wallet to stake OHM"
+#~ msgstr "Connect your wallet to stake OHM"
+
+#: src/views/Stake/Stake.jsx:235
+msgid "Connect your wallet to stake OHMa"
+msgstr "Connect your wallet to stake OHMa"
 
 #: src/views/Stake/Stake.jsx:217
 #: src/views/TreasuryDashboard/TreasuryDashboard.jsx:117
